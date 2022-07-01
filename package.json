@@ -34,7 +34,7 @@
     "eslint-config-prettier": "^8.1.0",
     "eslint-plugin-react": "^7.23.1",
     "patch-package": "^6.4.7",
-    "postcss": "^8.2.9",
+    "postcss": "^8.2.13",
     "prettier": "^2.2.1",
     "tailwindcss": "^2.0.4",
     "ts-node": "^9.1.1",
